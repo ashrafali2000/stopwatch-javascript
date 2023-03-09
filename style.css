@@ -1,0 +1,26 @@
+.container{
+display: flex;
+justify-content: center;
+justify-content: space-around;
+}
+label{
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+    font-size: 100px;
+}
+.btn{
+    margin-top: 90px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;  
+}
+button{
+    width: 130px;
+    height: 50px;
+    background-color: rgb(205, 11, 57);
+    font-size: 30px;
+    color: #fff;
+}
+body{
+    background-color: aquamarine;
+}
